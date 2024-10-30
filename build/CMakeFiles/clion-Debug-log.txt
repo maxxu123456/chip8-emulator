@@ -1,0 +1,4 @@
+Cannot generate into /Users/maxxu/Developer/chip8-emulator/build
+It was created with incompatible generator 'Unix Makefiles'
+
+Please either delete it manually or select another generation directory
